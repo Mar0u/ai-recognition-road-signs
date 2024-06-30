@@ -1,5 +1,5 @@
-train: /content/drive/My Drive/mgr 1 semestr/ai/projekt_znaki/train/augmented
-val: /content/drive/My Drive/mgr 1 semestr/ai/projekt_znaki/val
+train: /content/drive/My Drive/projekt_znaki/train/augmented
+val: /content/drive/My Drive/projekt_znaki/val
 
 model: 
   type: yolov8n                
