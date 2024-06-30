@@ -1,16 +1,17 @@
 # Traffic Sign Recognition with YOLOv8
 ![sample output](https://raw.githubusercontent.com/Mar0u/ai-recognition-road-signs/main/screenshots/Zrzut%20ekranu%202024-06-30%20194358.png)
 -   [About](#about)
-   -   [Recognized Traffic Signs](#recognized-traffic-signs)
-   -   [Potential Applications](#potential-applications)
-   -   [Dataset](#dataset)
+    -   [Recognized Traffic Signs](#recognized-traffic-signs)
+    -   [Potential Applications](#potential-applications)
+    -   [Dataset](#dataset)
 -   [Step by Step](#step-by-step)
-   -   [Installation](#installation)
-   -   [Displaying Sample Images with Bounding Boxes](#displaying-sample-images-with-bounding-boxes)
-   -   [Data Augmentation](#data-augmentation)
-   -   [Training the Model](#training-the-model)
-   -   [Evaluating the Model](#evaluating-the-model)
+    -   [Installation](#installation)
+    -   [Displaying Sample Images with Bounding Boxes](#displaying-sample-images-with-bounding-boxes)
+    -   [Data Augmentation](#data-augmentation)
+    -   [Training the Model](#training-the-model)
+    -   [Evaluating the Model](#evaluating-the-model)
 -   [Metric Charts](#metric-charts)
+
 
 # About
 
