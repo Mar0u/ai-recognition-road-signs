@@ -1,0 +1,12 @@
+train: /content/drive/My Drive/mgr 1 semestr/ai/projekt_znaki/train/augmented
+val: /content/drive/My Drive/mgr 1 semestr/ai/projekt_znaki/val
+
+model: 
+  type: yolov8n                
+  anchors:
+    - [39, 43, 72, 84, 146, 148]      
+    - [15, 16, 629, 786, 722, 723]    
+    - [783, 783, 910, 805, 823, 823]  
+
+nc: 19                       
+names: ['droga_z_pierwszenstwem', 'dzieci', 'jednokierunkowa', 'koniec_pierwszenstwa', 'nakaz_jazdy', 'ograniczenie_predkosci', 'ograniczenie_tonazu', 'parking', 'przejscie_dla_pieszych', 'przystanek', 'rondo', 'stop', 'ustap_pierwszenstwa', 'uwaga', 'zakaz_postoju', 'zakaz_ruchu', 'zakaz_skretu', 'zakaz_wjazdu', 'zakaz_zatrzymywania']
